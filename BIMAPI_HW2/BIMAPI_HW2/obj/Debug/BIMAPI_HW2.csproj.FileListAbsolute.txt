@@ -1,0 +1,229 @@
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.pdb
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIUI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIFoundation.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PersistenceDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UtilityAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GraphicsAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GeomUtilAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\FamilyDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\HostObjDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SiteDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SculptingDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RebarDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MassingDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AssemblyDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DPartDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\NumberingDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StairRampDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MaterialDBAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DBManagedServices.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AdWindows.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAddInUtility.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIInterop.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFramework.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AddInManager.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitUIAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DesktopMFCAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIUIAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitMFCAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsUIAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailUIAPI.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFrameworkServices.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ManagedMC3.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPI.xml
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIUI.xml
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.AssemblyReference.cache
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CopyComplete
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.dll
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.pdb
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Form1.resources
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.GenerateResource.cache
+C:\Users\jim\source\repos\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Properties.Resources.resources
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.pdb
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIUI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIFoundation.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PersistenceDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UtilityAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GraphicsAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GeomUtilAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\FamilyDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\HostObjDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SiteDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SculptingDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RebarDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MassingDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AssemblyDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DPartDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\NumberingDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StairRampDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MaterialDBAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DBManagedServices.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AdWindows.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAddInUtility.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIInterop.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFramework.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AddInManager.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitUIAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DesktopMFCAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIUIAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitMFCAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsUIAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailUIAPI.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFrameworkServices.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ManagedMC3.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPI.xml
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIUI.xml
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.AssemblyReference.cache
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Form1.resources
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Properties.Resources.resources
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.GenerateResource.cache
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CoreCompileInputs.cache
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CopyComplete
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.dll
+C:\Users\jim\Desktop\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.pdb
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BIMAPI_HW2.pdb
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIFoundation.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PersistenceDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UtilityAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GraphicsAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\GeomUtilAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\FamilyDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\HostObjDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SiteDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\SculptingDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RebarDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MassingDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AssemblyDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DPartDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\NumberingDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\StairRampDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\MaterialDBAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DBManagedServices.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AdWindows.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAddInUtility.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIInterop.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFramework.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\AddInManager.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitUIAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DesktopMFCAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\APIUIAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitMFCAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EssentialsUIAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\DetailUIAPI.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\UIFrameworkServices.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ManagedMC3.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPI.xml
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\RevitAPIUI.xml
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.AssemblyReference.cache
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Form1.resources
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.Properties.Resources.resources
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.GenerateResource.cache
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CoreCompileInputs.cache
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.csproj.CopyComplete
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.dll
+C:\Users\ASUSPRO\Documents\NTUST-Civil\BIM API\BIMAPI_HW2\BIMAPI_HW2\BIMAPI_HW2\obj\Debug\BIMAPI_HW2.pdb
