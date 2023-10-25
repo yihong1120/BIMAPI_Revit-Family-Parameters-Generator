@@ -13,7 +13,7 @@ Increased Efficiency: This automation method significantly saves modeling person
 Reduced Error Rate: Automatic modeling can reduce human errors, ensuring the accuracy of the dimensions, and improving modeling quality.
 
 Ease of Maintenance: Automatically generated models are easier to maintain in the long run since they are generated based on consistent specifications.
-![image](https://github.com/jim96388/BIMAPI_Revit-Family-Parameters-Generator/blob/master/images/screenshot1.png)
-![image](https://github.com/jim96388/BIMAPI_Revit-Family-Parameters-Generator/blob/master/images/screenshot2.png)
-![image](https://github.com/jim96388/BIMAPI_Revit-Family-Parameters-Generator/blob/master/images/screenshot3.png)
-![image](https://github.com/jim96388/BIMAPI_Revit-Family-Parameters-Generator/blob/master/images/screenshot4.png)
+![image](./images/screenshot1.png)
+![image](./images/screenshot2.png)
+![image](./mages/screenshot3.png)
+![image](./mages/screenshot4.png)
