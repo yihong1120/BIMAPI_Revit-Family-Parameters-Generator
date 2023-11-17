@@ -15,5 +15,5 @@ Reduced Error Rate: Automatic modeling can reduce human errors, ensuring the acc
 Ease of Maintenance: Automatically generated models are easier to maintain in the long run since they are generated based on consistent specifications.
 ![image](./images/screenshot1.png)
 ![image](./images/screenshot2.png)
-![image](./mages/screenshot3.png)
-![image](./mages/screenshot4.png)
+![image](./images/screenshot3.png)
+![image](./images/screenshot4.png)
