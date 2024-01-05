@@ -6,13 +6,13 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Windows.Forms.IWin32Window;
 using Autodesk.Revit.UI.Selection;
 using Autodesk.Revit.DB;
 
-namespace BIMAPI_HW2
+namespace BimApiRevitFamilyParametersGenerator
 {
-	public partial class Form1 : System.Windows.Forms.Form
+	public partial class FamilyParameterGeneratorForm : System.Windows.Forms.Form
 	{
 		public Document doc;
 		public Selection selElement;
