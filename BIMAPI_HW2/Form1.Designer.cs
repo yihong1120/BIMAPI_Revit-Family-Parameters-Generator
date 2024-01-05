@@ -1,7 +1,7 @@
 ﻿
-namespace BIMAPI_HW2
+namespace BimApiRevitFamilyParametersGenerator
 {
-	partial class Form1
+	partial partial class FamilyParameterGeneratorForm
 	{
 		/// <summary>
 		/// Required designer variable.
