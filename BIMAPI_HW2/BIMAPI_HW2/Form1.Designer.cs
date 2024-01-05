@@ -1,4 +1,6 @@
 ﻿
+using BIMAPI_HW2;
+
 namespace BIMAPI_HW2
 {
 	partial class Form1
@@ -32,20 +34,20 @@ namespace BIMAPI_HW2
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
-            this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label4 = new System.Windows.Forms.Label();
+            this.label1 = FormControls.SetupLabel1();
+            this.button1 = FormControls.SetupButton1();
+            this.maskedTextBox1 = FormControls.SetupMaskedTextBox1();
+            this.maskedTextBox2 = FormControls.SetupMaskedTextBox2();
+            this.button2 = FormControls.SetupButton2();
+            this.checkBox1 = FormControls.SetupCheckBox1();
+            this.checkBox2 = FormControls.SetupCheckBox2();
+            this.button3 = FormControls.SetupButton3();
+            this.button4 = FormControls.SetupButton4();
+            this.label2 = FormControls.SetupLabel2();
+            this.label3 = FormControls.SetupLabel3();
+            this.pictureBox1 = FormControls.SetupPictureBox1();
+            this.dataGridView1 = FormControls.SetupDataGridView1();
+            this.label4 = FormControls.SetupLabel4();
             this.尺寸 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
