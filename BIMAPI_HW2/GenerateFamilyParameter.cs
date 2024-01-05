@@ -10,15 +10,15 @@ using Autodesk.Revit.DB.Structure;
 using System.Windows.Forms;
 using System.Threading.Tasks;
 using System.Collections.Generic;
-using BIMAPI_HW2;
+using Autodesk.Revit.DB; using Autodesk.Revit.UI; using Autodesk.Revit.Attributes; using Autodesk.Revit.DB.Structure; using Autodesk.Revit.UI.Selection; using Autodesk.Revit.DB.Events; using System; using System.Collections.Generic; using System.Diagnostics; using System.IO; using System.Linq; using System.Text; using System.Threading.Tasks; using System.Windows.Forms;
 
-namespace APIFinal
+namespace BimApiRevitFamilyParametersGenerator
 {
 	[Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
 
-	public class _0104_test : IExternalCommand
+	public class FamilyParameterGeneratorForm : System.Windows.Forms.Form
 	{
-		private class ObjectType : EqualityComparer<ObjectType>
+		private class DimensionsComparer : EqualityComparer<DimensionsComparer>
 		{
 			int[] _dim = new int[2];
 
@@ -37,7 +37,7 @@ namespace APIFinal
 				get { return H.ToString() + " x " + W.ToString() + "mm"; }
 			}
 
-			public ObjectType(int d1, int d2)
+			public DimensionsComparer(int d1, int d2)
 			{
 				if (d1 > d2)
 				{
@@ -63,7 +63,7 @@ namespace APIFinal
 		public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
 		{
 
-			void get_number_of_Object(string path, ref int num)
+			void GetNumberOfObjects(string path, ref int num)
 			{
 				StreamReader reader = new StreamReader(path);
 				while (reader.Peek() >= 0)
@@ -76,7 +76,7 @@ namespace APIFinal
 			}
 
 
-			void get_ObjectType(string path, ref int[] L1, ref int[] L2)
+			void GetObjectTypes(string path, ref int[] L1, ref int[] L2)
 			{
 				StreamReader reader = new StreamReader(path);
 				int count = 0;
@@ -93,7 +93,8 @@ namespace APIFinal
 			}
 
 			//for loading the BIM model
-			void load_rfa_element(ref Document document, string path, string name)
+			void LoadRfaElement(ref Document document, string path, string name)
+			
 			{
 				Family family = null;
 				using (Transaction tx = new Transaction(document))
@@ -153,7 +154,7 @@ namespace APIFinal
 				int[] length2 = new int[col_num];
 				get_ObjectType(Object_type_path, ref length1, ref length2);
 
-				List<ObjectType> all = new List<ObjectType>();
+				List<DimensionsComparer> allDimensions = new List<DimensionsComparer>();
 				for (int i = 0; i < col_num; ++i)
 					all.Add(new ObjectType(length1[i], length2[i]));
 				all = all.Distinct(new ObjectType(0, 0)).ToList();
@@ -183,8 +184,8 @@ namespace APIFinal
 					return Result.Cancelled;
 				}
 
-				List<ObjectType> AlreadyExists = new List<ObjectType>();
-				List<ObjectType> ToBeMade = new List<ObjectType>();
+				List<DimensionsComparer> AlreadyExists = new List<DimensionsComparer>();
+				List<DimensionsComparer> ToBeGenerated = new List<DimensionsComparer>();
 
 				for (int i = 0; i < all.Count; ++i)
 				{
@@ -207,7 +208,7 @@ namespace APIFinal
 				//MessageBox.Show("count= " + ToBeMade.Count);
 				using (Transaction tx = new Transaction(doc))
 				{
-					if (tx.Start("Make types") == TransactionStatus.Started)
+					if (tx.Start("Create Types") == TransactionStatus.Started)
 					{
 						FamilySymbol first = existing.First();
 						foreach (ObjectType ct in ToBeMade)
@@ -249,10 +250,10 @@ namespace APIFinal
 						}
 						tx.Commit();
 					}
-					string ObjectMessageBox = "";
+					string _objectTypeMessageBox = "";
 					for (int i = 0; i < col_num; i++)
 					{
-						ObjectMessageBox += "Create " + Object + " " + length1[i] + " X " + length2[i] + " mm\n";
+						_objectTypeMessageBox += "Create " + _objectType + " " + length1[i] + " X " + length2[i] + " mm\n";
 					}
 					MessageBox.Show(ObjectMessageBox);
 				}
@@ -271,8 +272,8 @@ namespace APIFinal
 
 
 /*
-string Object = "Beam";//結構樑or結構柱
-string rfa_name = "混凝土-矩形樑";
-string rfa_path = "C:/ProgramData/Autodesk/RVT 2019/Libraries/China_Trad/結構構架/混凝土/混凝土-矩形樑.rfa";
-string Object_type_path = "C:/Users/jim/Desktop/test.txt";
+string _objectType = "Beam";//結構樑or結構柱
+string rfaName = "混凝土-矩形樑";
+string rfaPath = "C:/ProgramData/Autodesk/RVT 2019/Libraries/China_Trad/結構構架/混凝土/混凝土-矩形樑.rfa";
+string objectTypePath = "C:/Users/jim/Desktop/test.txt";
 */
